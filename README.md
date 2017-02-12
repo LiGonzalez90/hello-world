@@ -1,3 +1,3 @@
 # hello-world
-New repository
-Hello, my name is Lisbeth and I'm from New York City.
+Hello everyone
+My name is Lisbeth and I'm from New York City.
